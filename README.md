@@ -37,16 +37,9 @@ pip install -r requirements.txt
 
 ## Check Out the Starter Code
 
-When you accepted the assignment, GitHub created a clone of the assignment
-template for you at:
+Open the assignment link in D2L and accept it in Classroom50. Open your assigned repository in the INFO-523-S27 organization.
 
-```
-https://github.com/INFO-511-S25/python-numpy-pandas-hw-01-<your-username>
-```
-
-It also set up a separate `feedback` branch and a
-[feedback pull request](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/leave-feedback-with-pull-requests)
-that will allow the instructional team to give you feedback on your work.
+Leave the feedback pull request open so the instructional team can comment on your work.
 
 ---
 
@@ -68,9 +61,11 @@ This gives you a fully configured environment instantly.
 
 If you prefer working locally, clone the repository:
 
+In your assigned repository, select **Code → HTTPS** and copy the clone URL. Replace `PASTE_CLONE_URL_HERE` with that URL.
+
 ```bash
-git clone https://github.com/INFO-511-S25/python-numpy-pandas-hw-01-<your-username>.git
-cd python-numpy-pandas-hw-01-<your-username>
+git clone PASTE_CLONE_URL_HERE hw-01
+cd hw-01
 ```
 
 You are now ready to begin working on the assignment.
